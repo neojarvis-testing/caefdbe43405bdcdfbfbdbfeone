@@ -1,1 +1,4 @@
 print
+{
+System.out.println
+}
